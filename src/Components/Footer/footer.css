@@ -1,0 +1,72 @@
+.footer {
+    background: rgb(1, 12, 63) !important;
+  }
+  
+  .scrol-top {
+    position: fixed;
+    bottom: 50px;
+    right: 20px;
+    display: none;
+    z-index: 3;
+    border: none;
+    background: #FF7D00 !important;
+  }
+  
+  .copyright {
+    background: rgb(1, 12, 63) !important;
+    color: #FFECD1;
+  }
+  
+  .text-reset {
+    text-decoration: none !important;
+  }
+  
+  .text-uppercase {
+    color: #FFECD1 !important;
+  }
+  
+  .ftr-icon-fb,
+  .ftr-icon-x,
+  .ftr-icon-yt,
+  .ftr-icon-ig,
+  .ftr-icon-ld {
+    color: #FFECD1 !important;
+  }
+  
+  .ftr-icon-fb:hover {
+    color: #1877F2 !important;
+    scale: 1.5;
+  }
+  
+  .ftr-icon-x:hover {
+    color: grey !important;
+    scale: 1.5;
+  }
+  
+  .ftr-icon-yt:hover {
+    color: #FF0000 !important;
+    scale: 1.5;
+  }
+  
+  .ftr-icon-ig:hover {
+    color: #d62976 !important;
+    scale: 1.5;
+  }
+  
+  .ftr-icon-ld:hover {
+    color: #0077b5 !important;
+    scale: 1.5;
+  }
+  
+  .footer-link {
+    color: #FFECD1;
+    text-decoration: none;
+    position: relative;
+    transition: transform 0.3s ease-in-out;
+    letter-spacing: 0.01rem;
+  }
+  
+  .footer-link:hover {
+    color: #e1ab07 !important;
+    text-decoration: underline;
+  }
